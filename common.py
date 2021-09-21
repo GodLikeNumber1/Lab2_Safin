@@ -1,3 +1,3 @@
-print("What is your name?")
+print("Hello, what's your name?")
 name = input()
-print("Hello, " + name + ", nice to meet you!") 
+print("Hi, " + name + ", nice to meet you!") 
